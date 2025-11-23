@@ -1,4 +1,5 @@
 # Аналитик данных
+<p><img align = "right" src="https://github.com/AlenaCarp/AlenaCarp/blob/main/assets/Data%20analysis%20cart%20animation.gif" alt="Альтернативный текст" width="200" height="200" /></p>
 
 ### Hard Skills  
 
@@ -10,3 +11,7 @@
 + Git, Linux  
 
 ### Пет-проекты
+[Зарплаты аналитиков в мире, США и в России](https://github.com/AlenaCarp/Salaries-of-analysts-in-the-world-of-the-USA-and-Russia)
+
+### Учебные проекты
+[Анализ объявлений о продаже жилой недвижимости](https://github.com/AlenaCarp/Real_Estate_Agency)
