@@ -24,4 +24,5 @@
 [Зарплаты аналитиков в мире, США и в России](https://github.com/AlenaCarp/Salaries-of-analysts-in-the-world-of-the-USA-and-Russia)
 
 ## Учебные проекты
-[Анализ объявлений о продаже жилой недвижимости](https://github.com/AlenaCarp/Real_Estate_Agency)
+[Анализ объявлений о продаже жилой недвижимости](https://github.com/AlenaCarp/Real_Estate_Agency)  
+[Дашборд TED конференций](https://github.com/AlenaCarp/Dashboard_TED_conferences)  
