@@ -23,11 +23,13 @@
 ## Пет-проекты
 [Зарплаты аналитиков в мире, США и в России](https://github.com/AlenaCarp/Salaries-of-analysts-in-the-world-of-the-USA-and-Russia)
 
-## Учебные проекты
+## Учебные проекты  
+Python  
+[Анализ финансирования стартапов и возврат средств](https://github.com/AlenaCarp/Startup_financing_research)  
+[Анализ заведений общественного питания в Москве](https://github.com/AlenaCarp/Establishments_in_Moscow)  
 SQL  
-[Анализ объявлений о продаже жилой недвижимости](https://github.com/AlenaCarp/Real_Estate_Agency)  
 [Анализ внутриигровых покупок и игроков](https://github.com/AlenaCarp/in_game_purchases)  
+[Анализ объявлений о продаже жилой недвижимости](https://github.com/AlenaCarp/Real_Estate_Agency)  
 Дашборды  
 [Дашборд TED конференций](https://github.com/AlenaCarp/Dashboard_TED_conferences)  
-Python  
-[Анализ заведений общественного питания в Москве](https://github.com/AlenaCarp/Establishments_in_Moscow)
+
