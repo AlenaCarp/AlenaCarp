@@ -9,7 +9,7 @@ SQL
 [Анализ внутриигровых покупок и игроков](https://github.com/AlenaCarp/in_game_purchases)  
 [Анализ объявлений о продаже жилой недвижимости](https://github.com/AlenaCarp/Real_Estate_Agency)  
 Дашборды  
-[Дашборд TED конференций](https://github.com/AlenaCarp/Dashboard_TED_conferences)  
+[Дашборд TED конференций](https://github.com/AlenaCarp/Dashboard_TED_conferences)
 
 # Аналитик данных
 <p><img align = "right" src="https://github.com/AlenaCarp/AlenaCarp/blob/main/assets/Data%20analysis%20cart%20animation.gif" alt="Альтернативный текст" width="200" height="200" /></p>
@@ -32,6 +32,8 @@ SQL
   + Способность быстро осваивать новые инструменты в контексте реальных задач
   + Стремлюсь к прозрачности, доброжелательности и конструктивному фидбеку
   + Легко выстраиваю диалог с коллегами из разных сфер
+
+<p><img align = "center" src="https://github.com/AlenaAnalyst/AlenaAnalyst/blob/main/assets/2в.png" alt="Альтернативный текст" width="1500" height="120" /></p>
 
 
 
