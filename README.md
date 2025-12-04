@@ -10,6 +10,7 @@ SQL
 [Анализ объявлений о продаже жилой недвижимости](https://github.com/AlenaCarp/Real_Estate_Agency)  
 Дашборды  
 [Дашборд TED конференций](https://github.com/AlenaCarp/Dashboard_TED_conferences)
+[Дашборд доставки еды из ресторанов](https://github.com/AlenaAnalyst/All_from_the_cafe/tree/main)
 
 # Аналитик данных
 <p><img align = "right" src="https://github.com/AlenaCarp/AlenaCarp/blob/main/assets/Data%20analysis%20cart%20animation.gif" alt="Альтернативный текст" width="200" height="200" /></p>
